@@ -1,0 +1,15 @@
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\bin\Debug\net6.0\DataStructureProblems_StacksAndQueues.exe
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\bin\Debug\net6.0\DataStructureProblems_StacksAndQueues.deps.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\bin\Debug\net6.0\DataStructureProblems_StacksAndQueues.runtimeconfig.json
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\bin\Debug\net6.0\DataStructureProblems_StacksAndQueues.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\bin\Debug\net6.0\ref\DataStructureProblems_StacksAndQueues.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\bin\Debug\net6.0\DataStructureProblems_StacksAndQueues.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\obj\Debug\net6.0\DataStructureProblems_StacksAndQueues.csproj.AssemblyReference.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\obj\Debug\net6.0\DataStructureProblems_StacksAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\obj\Debug\net6.0\DataStructureProblems_StacksAndQueues.AssemblyInfoInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\obj\Debug\net6.0\DataStructureProblems_StacksAndQueues.AssemblyInfo.cs
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\obj\Debug\net6.0\DataStructureProblems_StacksAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\obj\Debug\net6.0\DataStructureProblems_StacksAndQueues.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\obj\Debug\net6.0\ref\DataStructureProblems_StacksAndQueues.dll
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\obj\Debug\net6.0\DataStructureProblems_StacksAndQueues.pdb
+C:\Users\akhil\OneDrive\Desktop\TerminalCommands\RFP\VisualStudio\DataStructureProblems_StacksAndQueues\obj\Debug\net6.0\DataStructureProblems_StacksAndQueues.genruntimeconfig.cache
